@@ -33,11 +33,11 @@ This project is a blogging website created using Bootstrap. It explores various 
 
 ## Contributor
 
-- [Muhammad Rayyan Athar]
+- Muhammad Rayyan Athar
 
 
 ## Contact
 
-For any inquiries or feedback, please contact [atharrayyan54@gmail.com].
+For any inquiries or feedback, please contact atharrayyan54@gmail.com
 
 Feel free to expand upon this template with additional details specific to your project!
